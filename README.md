@@ -16,7 +16,7 @@ OR
 you can use other static webservices like Netlify
 <br>
 <h1>
-  If you have zero idea on what you just typed, its ok. Just go to <a href="http://pldmoe.netlify.app"> my website </a> and start playing!
+  If you have zero idea on what you just heard, its ok. Just go to <a href="http://pldmoe.netlify.app"> my website </a> and start playing!
 </h1>
 
 <h2>Happy Gaming!</h2>
